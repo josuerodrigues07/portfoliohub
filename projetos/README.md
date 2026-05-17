@@ -31,5 +31,5 @@ https://josuerodrigues07.github.io/portfoliohub/
 ## Autor
 Josué Rodrigues de Sousa
 
-Aluno do SESI/SENAI  
-Curso Técnico em Manutenção Automotiva
+Aluno do CEUB Taguatinga  
+Curso de Engenharia de Software - 1° semestre 
